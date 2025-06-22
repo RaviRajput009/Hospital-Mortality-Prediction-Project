@@ -1,0 +1,10 @@
+title: Business Analytics Course
+description: Mark Soro projects and modules for Business Analytics Nanodegree.
+tagline: Mark Soro projects and modules for Business Analytics Nanodegree.
+author: Mark Soro
+show_downloads: false
+google_analytics: G-FGD1M93BQ2
+theme: jekyll-theme-cayman
+plugins:
+  - jemoji
+  - jekyll-seo-tag
