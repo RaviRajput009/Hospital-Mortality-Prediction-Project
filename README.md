@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # Business Analytics Nanodegree
 
 This Udacity program aims to develop foundational data skills. Analyze data using Excel, query a database using SQL and build interactive dashboards and visualizations in Tableau.
@@ -30,7 +31,12 @@ Introduction to the program about where and how data applies to a variety of ind
 
 ## [Introduction to Data](Introduction-to-Data/README.md)
 
-Using descriptive statistics and visualizations in Excel this section aims to develop and communicate insights discovered from the data. This section also teaches more advanced excel functions, builds excel models and statistical analysis. The project at the end of the lesson is to analyze data from NYSE.
+Using descriptive statistics and visualizations
+
+
+
+
+ in Excel this section aims to develop and communicate insights discovered from the data. This section also teaches more advanced excel functions, builds excel models and statistical analysis. The project at the end of the lesson is to analyze data from NYSE.
 
 
 #### :dart: PROJECT - Analyze NYSE Data
@@ -60,17 +66,10 @@ This section takes data visualizations to another level. Use Tableau to analyze 
 
 >In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
 
-[Project Rubric](Data-Visualization/L5-Project-Build-Data-Dashboard/Misc/rubric4.pdf)
+[Project Rubric](Data-Visualization/L5-Project-Build-Data-Dashboard/Misc/rubric4
 
 ---
 
 ## [Certificate of Completion](https://confirm.udacity.com/DCPLKGXW)
 
 ![image](Welcome-to-the-Nanodegree-Program/udacity-business-analytics.jpg)
-
-
----
-
-**Acknowledgement**
-
-Thanks to :raised_hands: [Udacity](https://www.udacity.com/) :raised_hands: for providing this [scholarship](Welcome-to-the-Nanodegree-Program/scholarship.pdf) :tada: course.
